@@ -177,7 +177,7 @@ class TextTranslationPage(QWidget):
             file_path, _ = QFileDialog.getSaveFileName(self, "Save Word", "", "Word Files (*.docx)")
             if file_path:
                 self.generate_word(translated_text, file_path)
-                QMessageBox.information(self, "Download", f"Word document saved as {file_path}.")
+                
         else:
             QMessageBox.warning(self, "No Translated Text", "Please perform translation before downloading Word document.")
 
