@@ -1,4 +1,3 @@
-
 # Contributing to LinguaDoc 🤝
 
 Thank you for considering to contribute to LinguaDoc. We welcome contributions from everyone, whether it's in the form of code, bug reports, feature requests, documentation improvements, or any other valuable input.
