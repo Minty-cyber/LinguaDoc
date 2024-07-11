@@ -12,7 +12,7 @@ LinguaDoc is a Python-based desktop application built using PySide6 and BasicLin
 
 - **GUI**: Utilize `PySide6` for the graphical user interface.
 - **Translation Functionalities**: Utilize `BasicLingua` for language translation.
-- **Document Generation**: Generate and manipulate documents efficiently with `pydocx`.
+- **Document Generation**: Generate documents efficiently with `pydocx`.
 - **Concurrent execution**: Perform tasks asynchronously for better performance with `threading`.
 
 
