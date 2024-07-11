@@ -18,11 +18,14 @@ LinguaDoc is a Python-based desktop application built using PySide6 and BasicLin
 
 ## Table of Contents
 
+- [How LinguaDoc works](#how-linguadoc-works)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Snapshots of the application](#snapshots-of-the-application)
 - [Contributions](#contributions)
 
+## How LinguaDoc works
+By clicking on the Text Translation, users are taken to a page where they can input the API key required for initializing the BasicLingua library . This key is essential for accessing and utilizing the library's feature of Text Translation. Upon accessing the page, users are prompted to obtain an API key from [here](https://aistudio.google.com/app/apikey) for the initialization of the BasicLingua library.
 
 ## Installation
 The application has been bundled into a setup file, allowing you to install and run it locally without needing to have Python installed on your machine. This ensures that our non-coder friends can also use the application with ease.
