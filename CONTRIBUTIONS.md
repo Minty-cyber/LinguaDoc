@@ -1,5 +1,5 @@
 
-# Contributing to BasicLingua-Webapp 🤝
+# Contributing to LinguaDoc 🤝
 
 Thank you for considering to contribute to LinguaDoc. We welcome contributions from everyone, whether it's in the form of code, bug reports, feature requests, documentation improvements, or any other valuable input.
 
@@ -10,7 +10,7 @@ To get started with contributing to LinguaDoc, follow these steps:
 
 2. **Clone the repository**: Clone your fork of the repository to your local machine using the following command:
    ```bash
-   git clone 
+   git clone https://github.com/Minty-cyber/LinguaDoc.git
    
 3. **Create a new branch for your contributions** Use descriptive names for easy identification of specific contributions made
    ```bash
