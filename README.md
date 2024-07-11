@@ -18,7 +18,7 @@ LinguaDoc is a Python-based desktop application built using PySide6 and BasicLin
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+- [Features of the application](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -60,7 +60,14 @@ LinguaDoc is a Python-based desktop application built using PySide6 and BasicLin
     python LinguaDoc.py
     ```
 
-2. **Feaures of the application**
+## Features of the apllication
+
+<p align="center">
+  <img src="images/Screenshot (229).png" width="400">
+  <img src="images/Screenshot (233).png" width="400">
+  <img src="images/Screenshot (234).png" width="400">
+</p>
+   
 
 
 
