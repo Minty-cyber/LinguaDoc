@@ -1,7 +1,7 @@
 # LinguaDoc 🐍🤖📄
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![PyQt6](https://img.shields.io/badge/PySide6-6.3.1-green.svg)
 ![Python](https://img.shields.io/badge/pydocx-0.9.10-blue.svg)
 
@@ -54,14 +54,13 @@ LinguaDoc is a Python-based desktop application built using PySide6 and BasicLin
 
 ## Usage
 
-1. **Run the application**:
+**Run the application**:
 
     ```sh
     python LinguaDoc.py
     ```
 
-2. **Follow the on-screen instructions** to use the translation and document generation features.
+2. **Feaures of the application**
 
-## Project Structure
 
 
