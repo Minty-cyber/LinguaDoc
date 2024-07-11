@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
-![PyQt6](https://img.shields.io/badge/PySide6-6.3.1-green.svg)
+![PySide6](https://img.shields.io/badge/PySide6-6.7.2-green.svg)
 ![Python](https://img.shields.io/badge/pydocx-0.9.10-red.svg)
 
 
@@ -32,7 +32,7 @@ You can download the setup file from the following link:
 
 ### Prerequisites
 
-- Python 3.12
+- Python 3.11
 - pip (Python package installer)
 
 ### Steps
