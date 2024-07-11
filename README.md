@@ -20,8 +20,8 @@ LinguaDoc is a Python-based desktop application built using PySide6 and BasicLin
 - [Installation](#installation)
 - [Usage](#usage)
 - [Snapshots of the application](#snapshots-of-the-application)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [Contributions](#contributions)
+
 
 ## Installation
 The application has been bundled into a setup file, allowing you to install and run it locally without needing to have Python installed on your machine. This ensures that our non-coder friends can also use the application with ease.
@@ -72,5 +72,5 @@ python LinguaDoc.py
 </p>
 
 ## Contributions
-We are excited to receive contributions! Please refer to our [CONTRIBUTING.md](https://github.com/Minty-cyber/BasicLingua-Webapp/edit/main/CONTRIBUTING.md) for comprehensive steps on submitting pull requests to the project.
+We are excited to receive contributions! Please refer to our [CONTRIBUTIONS.md](https://github.com/Minty-cyber/LinguaDoc/blob/main/CONTRIBUTIONS.md) for comprehensive steps on submitting pull requests to the project.
    
